@@ -1,6 +1,3 @@
-Here is your FAANG-level GitHub README.md for your Superstore Sales Power BI Project — designed exactly like your ski project but tailored for business analytics, insights, and interviews 🔥
-
-
 ---
 
 🛒 Superstore Sales Analytics Dashboard
@@ -274,11 +271,9 @@ Reduce low-performing items
 
 ---
 
-🚀 Advanced Features (FAANG-Level)
+🚀 Advanced Features
 
 Interactive filters (Region, Category, Segment)
-
-Drill-through analysis
 
 Dynamic KPIs
 
@@ -306,8 +301,6 @@ Show what the Sales Forecasting looks like -![Sales Forecast](https://github.com
 ---
 
 📌 Future Improvements
-
-Add forecasting (sales prediction)
 
 Build customer churn analysis
 
