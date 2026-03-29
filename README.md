@@ -293,7 +293,7 @@ Show what the Sales Forecasting looks like -![Sales Forecast](https://github.com
 
 🔗 Live Dashboard
 
-👉 ![Power BI Live Dashboard link here](https://app.powerbi.com/links/1gDrguR75D?ctid=5a93745d-a9a2-4394-aa68-1d4f012a68ea&pbi_source=linkShare&bookmarkGuid=2b8339dd-70ca-4a79-ae19-0eea1d97d017)
+👉 [View Live Dashboard](https://app.powerbi.com/links/1gDrguR75D?ctid=5a93745d-a9a2-4394-aa68-1d4f012a68ea&pbi_source=linkShare&bookmarkGuid=2b8339dd-70ca-4a79-ae19-0eea1d97d017)
 
 
 ---
