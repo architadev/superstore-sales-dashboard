@@ -293,14 +293,14 @@ Clean UI design
 🖼️ Dashboard Preview
 
 Show what the dashboard looks like -![Dashboard Preview](https://github.com/architadev/superstore-sales-dashboard/blob/main/Screenshot%20%20Dashboard.png)
-Show what the Sales Forecasting looks like -![Sales Forecast]()
+Show what the Sales Forecasting looks like -![Sales Forecast](https://github.com/architadev/superstore-sales-dashboard/blob/main/Screenshot%20Sales%20Forecast.png)
 
 
 ---
 
 🔗 Live Dashboard
 
-👉 https://app.powerbi.com/links/1gDrguR75D?ctid=5a93745d-a9a2-4394-aa68-1d4f012a68ea&pbi_source=linkShare&bookmarkGuid=2b8339dd-70ca-4a79-ae19-0eea1d97d017
+👉 ![Power BI Live Dashboard link here](https://app.powerbi.com/links/1gDrguR75D?ctid=5a93745d-a9a2-4394-aa68-1d4f012a68ea&pbi_source=linkShare&bookmarkGuid=2b8339dd-70ca-4a79-ae19-0eea1d97d017)
 
 
 ---
