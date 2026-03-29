@@ -292,7 +292,8 @@ Clean UI design
 
 🖼️ Dashboard Preview
 
-(Add your screenshots here)
+Show what the dashboard looks like -![Dashboard Preview](https://github.com/architadev/superstore-sales-dashboard/blob/main/Screenshot%20%20Dashboard.png)
+Show what the Sales Forecasting looks like -![Sales Forecast]()
 
 
 ---
