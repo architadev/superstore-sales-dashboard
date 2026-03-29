@@ -1,5 +1,3 @@
----
-
 🛒 Superstore Sales Analytics Dashboard
 
 📊 Project Overview
