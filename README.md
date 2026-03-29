@@ -312,10 +312,3 @@ Add AI insights (Power BI AI visuals)
 
 ---
 
-👩‍💻 Author
-
-Archita Dev
-Aspiring Data Analyst | Power BI | SQL | Python
-
-
----
